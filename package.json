@@ -7,7 +7,6 @@
     "start": "python bot.py"
   }
   "dependencies": {
-    "discord.py": "0.16.12",
-    "request": "2.81.0"
+    "discord.py": "0.16.12"
   }
 }
